@@ -5,7 +5,7 @@ I thrive in collaborative Agile/Scrum environments and enjoy working with a vari
 
 ## Tech Stack
 
-Here's a glimpse into my toolkit:
+### Here's a glimpse into my toolkit:
 
   **Languages:** Java, Python, SQL, Gherkin
   
