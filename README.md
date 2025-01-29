@@ -8,13 +8,21 @@ I thrive in collaborative Agile/Scrum environments and enjoy working with a vari
 Here's a glimpse into my toolkit:
 
   **Languages:** Java, Python, SQL, Gherkin
+  
   **Automation Tools:** Selenium WebDriver, Cucumber BDD, TestNG, JUnit, REST Assured, Appium
+  
   **API Testing:** REST Assured, Postman, Swagger
+  
   **CI/CD:** Jenkins, Git, AWS EC2, Docker
+  
   **Databases:** Oracle, PostgreSQL, SQLite
+  
   **Frameworks:** Page Object Model (POM), Data-Driven Testing
+  
   **Tools:** JIRA-Xray, Maven, IntelliJ IDEA, VS Code
+  
   **Methodologies:** Agile/Scrum
+  
   **Project Management Tools:** JIRA-Xray
 
 ## What I Do
